@@ -1,0 +1,8 @@
+Modelo Utilizado: Random Forest Classifier
+
+O Random Forest é um ensemble de árvores de decisão, que combina várias árvores para melhorar a precisão e evitar o overfitting. 
+A escolha deste modelo se deve à sua capacidade de lidar com grandes conjuntos de dados e variáveis de diferentes tipos. O processo de treinamento inclui:
+
+Divisão dos Dados: O conjunto de dados foi dividido em treinamento e teste para validar o modelo.
+Treinamento do Modelo: O Random Forest foi ajustado usando o conjunto de treinamento.
+Ajuste de Hiperparâmetros: Parâmetros como o número de árvores foram otimizados para melhorar o desempenho.
