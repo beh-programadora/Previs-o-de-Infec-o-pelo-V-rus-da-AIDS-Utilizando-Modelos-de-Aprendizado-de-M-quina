@@ -1,0 +1,8 @@
+O objetivo deste projeto é desenvolver um modelo de aprendizado de máquina capaz de prever a infecção pelo vírus da AIDS com base em características e histórico médico dos pacientes.
+O modelo de classificação binária visa identificar se um paciente está infectado com AIDS ou não,
+utilizando informações como tempo para falha ou censura, idade, peso, histórico médico (hemofilia, atividade homossexual, uso de drogas intravenosas),
+classificação de Karnofsky, histórico de terapia antirretroviral, contagens de células CD4/CD8, raça, gênero, entre outros atributos.
+
+
+O conjunto de dados está disponível em quatro arquivos CSV que contêm informações sobre diferentes números de pacientes.
+A análise e desenvolvimento do modelo devem considerar o desempenho em diferentes tamanhos de conjunto de dados, permitindo avaliar a eficácia e a escalabilidade do modelo.
