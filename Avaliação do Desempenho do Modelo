@@ -1,0 +1,9 @@
+1. Métricas de Avaliação:
+
+Acurácia: Percentual de previsões corretas.
+Sensibilidade (Recall): Capacidade do modelo de identificar corretamente os positivos.
+Especificidade: Capacidade do modelo de identificar corretamente os negativos.
+Precisão: Percentual de verdadeiros positivos entre as previsões positivas.
+F1-Score: Média harmônica de precisão e recall, útil para avaliar o equilíbrio entre eles.
+2. Relatório de Classificação: Foi gerado um relatório detalhado de classificação que fornece uma visão geral do desempenho do modelo em termos de cada classe,
+identificando áreas onde o modelo se destaca e onde precisa de melhorias.
