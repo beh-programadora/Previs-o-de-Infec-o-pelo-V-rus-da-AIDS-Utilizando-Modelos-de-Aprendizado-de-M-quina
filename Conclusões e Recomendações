@@ -1,0 +1,9 @@
+Conclusões:
+
+O modelo Random Forest demonstrou um bom desempenho geral na previsão da infecção por AIDS, com métricas sólidas em diferentes tamanhos de conjuntos de dados.
+A análise exploratória revelou a importância de variáveis como contagens de células CD4/CD8 e histórico de terapia antirretroviral na previsão da infecção.
+Recomendações:
+
+Melhorias no Modelo: Considerar a implementação de modelos adicionais como Gradient Boosting ou Redes Neurais para comparar e potencialmente melhorar o desempenho.
+Exploração de Dados: Realizar uma análise mais profunda das variáveis categóricas e suas interações com variáveis numéricas.
+Atualização do Conjunto de Dados: Continuar a coleta de dados para garantir que o modelo se mantenha relevante e eficaz com novos dados.
