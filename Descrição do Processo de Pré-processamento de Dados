@@ -1,0 +1,8 @@
+1. Limpeza de Dados:
+
+Remoção de Valores Ausentes: Foi realizado um tratamento para remover ou imputar valores ausentes, garantindo que o modelo não seja afetado por dados incompletos.
+Tratamento de Outliers: Identificação e tratamento de valores extremos para evitar distorções no modelo.
+2. Transformação de Dados:
+
+Codificação de Variáveis Categóricas: Utilizou-se codificação de rótulos para converter variáveis categóricas em formato numérico.
+Normalização de Variáveis Numéricas: As variáveis numéricas foram escaladas para ter média zero e desvio padrão unitário, facilitando a convergência do modelo.
