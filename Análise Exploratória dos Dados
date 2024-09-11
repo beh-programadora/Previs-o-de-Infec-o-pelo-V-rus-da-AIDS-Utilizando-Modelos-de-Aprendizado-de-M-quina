@@ -1,0 +1,11 @@
+1. Primeiras Linhas e Estrutura dos Dados: Os dados foram carregados e a análise inicial revelou que cada conjunto possui diferentes tamanhos e características. 
+A visualização das primeiras linhas de cada dataset ajudou a entender a estrutura e a variedade das variáveis.
+
+2. Estatísticas Descritivas: As estatísticas descritivas fornecem uma visão geral das variáveis numéricas, como média, mediana, desvio padrão e intervalos de valores. 
+Estas estatísticas ajudam a identificar tendências gerais e possíveis problemas de qualidade dos dados, como valores extremos ou discrepantes.
+
+3. Distribuição das Variáveis:
+
+Histograma: Permite a visualização da distribuição das variáveis numéricas.
+Gráficos de Barras e Pizza: Mostram a distribuição de variáveis categóricas e ajudam a identificar a prevalência de diferentes categorias.
+Gráficos de Linha: Analisam a relação entre duas variáveis numéricas, se houver uma correlação aparente.
